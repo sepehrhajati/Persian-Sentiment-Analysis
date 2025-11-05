@@ -1,0 +1,8 @@
+.vscode/
+
+*.csv
+!persian_tweets_optimized_for_training.csv 
+
+__pycache__/
+venv/
+*.ipynb_checkpoints
