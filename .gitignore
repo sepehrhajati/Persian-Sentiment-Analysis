@@ -2,6 +2,7 @@
 
 *.csv
 !persian_tweets_optimized_for_training.csv 
+!persian_20k_optimized.csv
 
 __pycache__/
 venv/
